@@ -4,3 +4,10 @@
     margin: 0 auto;
     /* background-color: #42b289bf; */
 }
+.item{
+    border-radius: 20px;
+}
+.heading{
+    color: tomato;
+    text-align: center;
+}
